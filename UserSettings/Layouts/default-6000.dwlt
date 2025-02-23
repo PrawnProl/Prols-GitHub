@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1706.6667
     height: 976
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Game
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -96,8 +96,8 @@ MonoBehaviour:
     y: 0
     width: 382.66666
     height: 650
-  m_MinSize: {x: 201, y: 226}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -492,7 +492,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -3654
+  m_LastSelectedObjectID: 44770
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -559,7 +559,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: e8ae0000
     m_LastClickedID: 44776
-    m_ExpandedIDs: 00000000e8ae0000c8b0000000ca9a3b
+    m_ExpandedIDs: 0000000026b00000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -588,7 +588,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e8ae0000
+    m_ExpandedIDs: 0000000026b00000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -734,9 +734,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: a828ffff
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 0cfbffff32ae0000
+      m_ExpandedIDs: 06fbfffffcae0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1326,9 +1326,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -0.27851453, y: 0.6688646, z: 0.030536175}
+    m_Target: {x: 0.13193548, y: 0.46473664, z: 0.054565925}
     speed: 2
-    m_Value: {x: -0.27851453, y: 0.6688646, z: 0.030536175}
+    m_Value: {x: 0.13193548, y: 0.46473664, z: 0.054565925}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1378,9 +1378,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 6.9389324
+    m_Target: 4.5359683
     speed: 2
-    m_Value: 6.9389324
+    m_Value: 4.5359683
   m_Ortho:
     m_Target: 1
     speed: 2
