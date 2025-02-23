@@ -11,6 +11,9 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 
+# User settings
+UserSettings/*.dwlt
+
 # Avoid tracking Auto-generated Unity Solution and Project Files
 *.csproj
 *.unityproj
