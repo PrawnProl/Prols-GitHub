@@ -12,7 +12,7 @@
 [Mm]emoryCaptures/
 
 # User settings
-UserSettings/*.dwlt
+UserSettings/default-6000.dwlt
 
 # Avoid tracking Auto-generated Unity Solution and Project Files
 *.csproj
