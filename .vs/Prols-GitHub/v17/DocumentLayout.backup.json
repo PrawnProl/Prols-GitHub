@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\LevelMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LevelMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\SpawnManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SpawnManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Library\\PackageCache\\com.unity.render-pipelines.universal@15fef0f41df6\\Runtime\\2D\\Light2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@15fef0f41df6\\Runtime\\2D\\Light2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Light2D.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Library\\PackageCache\\com.unity.render-pipelines.universal@15fef0f41df6\\Runtime\\2D\\Light2D.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@15fef0f41df6\\Runtime\\2D\\Light2D.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Library\\PackageCache\\com.unity.render-pipelines.universal@15fef0f41df6\\Runtime\\2D\\Light2D.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@15fef0f41df6\\Runtime\\2D\\Light2D.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SpawnManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\SpawnManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T18:21:41.53Z"
+              "WhenOpened": "2025-02-25T17:01:09.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Test.cs",
+              "RelativeDocumentMoniker": "Assets\\Test.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Test.cs",
+              "RelativeToolTip": "Assets\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:03:32.861Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LevelMove.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\LevelMove.cs",
+              "RelativeDocumentMoniker": "Assets\\LevelMove.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\LevelMove.cs",
+              "RelativeToolTip": "Assets\\LevelMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:38:53.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\PlayerMovement.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwDgAAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T17:20:31.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T17:20:31.992Z"
             }
           ]
         }
