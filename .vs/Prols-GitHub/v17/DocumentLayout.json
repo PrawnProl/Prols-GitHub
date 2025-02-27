@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\PlayerPrefReset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerPrefReset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\NPCMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\NPCMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\LevelMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LevelMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Scripts\\NPCSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NPCSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\SpawnManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SpawnManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Scripts\\NPC_AI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NPC_AI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\LevelMoveStore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LevelMoveStore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Scripts\\NPCPathFinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NPCPathFinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\SpawnManagerStore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SpawnManagerStore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Scripts\\NPC Spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NPC Spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,91 +35,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerPrefReset.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\PlayerPrefReset.cs",
-              "RelativeDocumentMoniker": "Assets\\PlayerPrefReset.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\PlayerPrefReset.cs",
-              "RelativeToolTip": "Assets\\PlayerPrefReset.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Title": "NPCMovement.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\NPCMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\NPCMovement.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\NPCMovement.cs",
+              "RelativeToolTip": "Assets\\NPCMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T21:16:57.308Z",
+              "WhenOpened": "2025-02-27T20:37:14.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SpawnManagerStore.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\SpawnManagerStore.cs",
-              "RelativeDocumentMoniker": "Assets\\SpawnManagerStore.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\SpawnManagerStore.cs",
-              "RelativeToolTip": "Assets\\SpawnManagerStore.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBEAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "NPCSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Scripts\\NPCSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCSpawner.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Scripts\\NPCSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T20:17:48.894Z",
+              "WhenOpened": "2025-02-27T20:10:44.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LevelMoveStore.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\LevelMoveStore.cs",
-              "RelativeDocumentMoniker": "Assets\\LevelMoveStore.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\LevelMoveStore.cs",
-              "RelativeToolTip": "Assets\\LevelMoveStore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "NPCPathFinding.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Scripts\\NPCPathfinding.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCPathfinding.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Scripts\\NPCPathfinding.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCPathfinding.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T17:18:28.178Z",
+              "WhenOpened": "2025-02-27T19:58:41.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SpawnManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\SpawnManager.cs",
-              "RelativeDocumentMoniker": "Assets\\SpawnManager.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\SpawnManager.cs",
-              "RelativeToolTip": "Assets\\SpawnManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "NPC_AI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Scripts\\NPC_AI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC_AI.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Scripts\\NPC_AI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC_AI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T17:01:09.845Z",
+              "WhenOpened": "2025-02-27T19:48:31.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Test.cs",
-              "RelativeDocumentMoniker": "Assets\\Test.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Test.cs",
-              "RelativeToolTip": "Assets\\Test.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "NPC Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Scripts\\NPC Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC Spawner.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Scripts\\NPC Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC Spawner.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T15:03:32.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LevelMove.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\LevelMove.cs",
-              "RelativeDocumentMoniker": "Assets\\LevelMove.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\LevelMove.cs",
-              "RelativeToolTip": "Assets\\LevelMove.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T14:38:53.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\PlayerMovement.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAcwDgAAAB5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T17:20:31.992Z"
+              "WhenOpened": "2025-02-27T18:57:35.451Z"
             }
           ]
         }
