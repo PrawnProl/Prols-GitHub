@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: -1048430848848033417}
   - component: {fileID: 3067122007453802673}
   - component: {fileID: -4123443255256582992}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: FemaleCustomer1_13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -80,7 +80,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1575562441
-  m_SortingLayer: 4
+  m_SortingLayer: 5
   m_SortingOrder: 0
   m_Sprite: {fileID: 286807529028097098, guid: b371306055254d741b784b5eaa61bfb7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -130,7 +130,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e352f30839dd6ac4f8c4bd0dd4551a15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  speed: 2
+  skipListPath1: 03000000040000000b0000000c00000013000000140000001b000000
+  lookDownListPath1: 0500000006000000070000000d0000000e0000000f0000001500000016000000170000001c000000
+  skipListPath2: 
+  lookDownListPath2: 
+  npcSpawner: {fileID: 0}
+  pathSelection: 0
 --- !u!50 &-1048430848848033417
 Rigidbody2D:
   serializedVersion: 5
