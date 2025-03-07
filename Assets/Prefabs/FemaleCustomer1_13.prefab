@@ -136,7 +136,7 @@ MonoBehaviour:
   skipListPath2: 
   lookDownListPath2: 
   npcSpawner: {fileID: 0}
-  pathSelection: 0
+  pathSelection: 2
 --- !u!50 &-1048430848848033417
 Rigidbody2D:
   serializedVersion: 5
