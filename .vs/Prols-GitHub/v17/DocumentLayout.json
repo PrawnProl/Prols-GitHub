@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NPCMovement.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Scripts\\NPCMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCMovement.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Scripts\\NPCMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\NPCMovement.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAkwK0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T23:50:56.413Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,9 +28,22 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\NPCSpawner.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Scripts\\NPCSpawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\NPCSpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwEMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T20:10:44.67Z",
+              "WhenOpened": "2025-03-07T17:43:34.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NPCMovement.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Scripts\\NPCMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCMovement.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Prols-GitHub\\Assets\\Scripts\\NPCMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCMovement.cs",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAgwHkBAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T23:50:56.413Z",
               "EditorCaption": ""
             }
           ]

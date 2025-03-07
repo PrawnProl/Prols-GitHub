@@ -12,7 +12,11 @@ public class NPCSpawner : MonoBehaviour
     [SerializeField]
     private float _maximumSpawnTime;
 
+    [SerializeField]
+    private int _maxNPCs = 10; // Maximum number of NPCs that can be spawned
+
     private float _timeUntilSpawn;
+    private List<GameObject> _spawnedNPCs = new List<GameObject>(); // Track spawned NPCs
 
     void Awake()
     {
@@ -21,12 +25,19 @@ public class NPCSpawner : MonoBehaviour
 
     void Update()
     {
-        _timeUntilSpawn -= Time.deltaTime;
+        // Clean up destroyed NPCs from the list
+        CleanUpDestroyedNPCs();
 
-        if (_timeUntilSpawn <= 0)
+        // Only spawn if the maximum number of NPCs hasn't been reached
+        if (_spawnedNPCs.Count < _maxNPCs)
         {
-            SpawnNPC();
-            SetTimeUntilSpawn();
+            _timeUntilSpawn -= Time.deltaTime;
+
+            if (_timeUntilSpawn <= 0)
+            {
+                SpawnNPC();
+                SetTimeUntilSpawn();
+            }
         }
     }
 
@@ -47,6 +58,22 @@ public class NPCSpawner : MonoBehaviour
         GameObject randomPrefab = _npcPrefabs[Random.Range(0, _npcPrefabs.Count)];
 
         // Instantiate the selected prefab
-        Instantiate(randomPrefab, transform.position, Quaternion.identity);
+        GameObject npc = Instantiate(randomPrefab, transform.position, Quaternion.identity);
+
+        // Add the spawned NPC to the list
+        _spawnedNPCs.Add(npc);
+    }
+
+    // Clean up destroyed NPCs from the list
+    private void CleanUpDestroyedNPCs()
+    {
+        // Iterate through the list in reverse to avoid issues when removing items
+        for (int i = _spawnedNPCs.Count - 1; i >= 0; i--)
+        {
+            if (_spawnedNPCs[i] == null) // Check if the NPC has been destroyed
+            {
+                _spawnedNPCs.RemoveAt(i); // Remove it from the list
+            }
+        }
     }
 }

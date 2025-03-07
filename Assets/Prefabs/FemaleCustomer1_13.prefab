@@ -130,13 +130,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e352f30839dd6ac4f8c4bd0dd4551a15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  speed: 3
   skipListPath1: 03000000040000000b0000000c00000013000000140000001b000000
   lookDownListPath1: 0500000006000000070000000d0000000e0000000f0000001500000016000000170000001c000000
-  skipListPath2: 
-  lookDownListPath2: 
+  skipListPath2: 00000000030000000400000008000000090000000d0000000e0000001500000016000000190000001a0000001d000000
+  lookDownListPath2: 050000000a0000000f0000001200000014000000180000001c000000
   npcSpawner: {fileID: 0}
-  pathSelection: 2
 --- !u!50 &-1048430848848033417
 Rigidbody2D:
   serializedVersion: 5
@@ -194,7 +193,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
