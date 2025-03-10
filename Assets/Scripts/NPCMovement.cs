@@ -40,6 +40,10 @@ public class NPCMovement : MonoBehaviour
     private Vector2[] exitPathWaypoints; // Stores the waypoints for the ExitPath
     private bool isExiting = false; // Whether the NPC is following the ExitPath
 
+    // Path Selection
+    public enum PathChoice { Path1, Path2, Random }
+    [SerializeField] private PathChoice pathChoice = PathChoice.Random; // Default to Random
+
     void Start()
     {
         anim = GetComponent<Animator>();
@@ -68,8 +72,20 @@ public class NPCMovement : MonoBehaviour
             }
         }
 
-        // Randomly choose between Path1 and Path2
-        GameObject chosenPath = Random.Range(0, 2) == 0 ? GameObject.Find("Path1") : GameObject.Find("Path2");
+        // Choose the path based on the selected option
+        GameObject chosenPath = null;
+        switch (pathChoice)
+        {
+            case PathChoice.Path1:
+                chosenPath = GameObject.Find("Path1");
+                break;
+            case PathChoice.Path2:
+                chosenPath = GameObject.Find("Path2");
+                break;
+            case PathChoice.Random:
+                chosenPath = Random.Range(0, 2) == 0 ? GameObject.Find("Path1") : GameObject.Find("Path2");
+                break;
+        }
 
         if (chosenPath == null)
         {
