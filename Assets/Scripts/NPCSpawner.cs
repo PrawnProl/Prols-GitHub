@@ -60,6 +60,13 @@ public class NPCSpawner : MonoBehaviour
         // Instantiate the selected prefab
         GameObject npc = Instantiate(randomPrefab, transform.position, Quaternion.identity);
 
+        // Pass the maxNPCs value to the NPC
+        NPCPersistence npcPersistence = npc.GetComponent<NPCPersistence>();
+        if (npcPersistence != null)
+        {
+            npcPersistence.SetMaxNPCs(_maxNPCs);
+        }
+
         // Add the spawned NPC to the list
         _spawnedNPCs.Add(npc);
     }

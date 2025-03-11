@@ -44,6 +44,11 @@ public class NPCMovement : MonoBehaviour
     public enum PathChoice { Path1, Path2, Random }
     [SerializeField] private PathChoice pathChoice = PathChoice.Random; // Default to Random
 
+    // Reputation System
+    private ReputationBar reputationBar; // Reference to the ReputationBar component
+
+    [SerializeField] private float reputationIncreaseAmount = 50f; // Customizable reputation increase value
+
     void Start()
     {
         anim = GetComponent<Animator>();
@@ -133,6 +138,13 @@ public class NPCMovement : MonoBehaviour
         else
         {
             Debug.LogWarning("NPC Spawner not assigned! Using default position.");
+        }
+
+        // Find the ReputationBar component in the scene
+        reputationBar = FindFirstObjectByType<ReputationBar>();
+        if (reputationBar == null)
+        {
+            Debug.LogError("ReputationBar component not found in the scene!");
         }
     }
 
@@ -313,6 +325,17 @@ public class NPCMovement : MonoBehaviour
             if (IsPlayerOnCheckout())
             {
                 Debug.Log("Player pressed E near NPC at Spot0 and is on Checkout. NPC will follow ExitPath.");
+
+                // Increase reputation by the specified amount
+                if (reputationBar != null)
+                {
+                    reputationBar.IncreaseReputation(reputationIncreaseAmount);
+                }
+                else
+                {
+                    Debug.LogError("ReputationBar reference is not assigned!");
+                }
+
                 StartExitPath();
             }
         }
